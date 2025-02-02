@@ -1,9 +1,5 @@
 # AE6394_GC
 
-Here’s the **rewritten README.md file** with a clean and professional structure:
-
----
-
 # Hydrogen Infrastructure Dashboard
 
 This project is a **Dash-based web application** designed to visualize and plan hydrogen infrastructure. The dashboard provides insights into compliance, land use, and operational impacts, making it a valuable tool for stakeholders involved in hydrogen infrastructure planning.
